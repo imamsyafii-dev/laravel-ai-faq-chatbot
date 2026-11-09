@@ -135,3 +135,14 @@ An internet connection is only required to install dependencies or download new 
 ## Notes
 
 The `llama3.2` model runs locally on your computer. AI responses are based on the model's existing knowledge and do not currently use live internet data or application database data.
+
+## Screenshots
+
+### Home Page
+
+![Home Page](docs/screenshots/home.png)
+
+### Chat Page
+
+![Chat Page](docs/screenshots/chat1.png)
+![Chat Page](docs/screenshots/chat2.png)
